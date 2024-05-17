@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-slugify-title",
+  "name": "Obsidian Slugify Title",
+  "version": "1.0.0",
+  "author": "Jake Price",
+  "description": "Slugify the current note's title and add it to the aliases property.",
+  "main": "main.js"
+}
+
